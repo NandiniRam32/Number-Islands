@@ -14,7 +14,7 @@ export const RulesPage = ({ handleChangePage, handleDarkMode }) => {
               to another corresponding to the number in the center.</div>
               <div className="rules-page-space-big"></div>
               <div className="rules-small">You can only finish a level when all of your bridges 
-              have been drawn properly. Remember to press the submit button!</div></span>
+              have been drawn properly.</div></span>
         </div>
         <div className="rules-box rules-box-laptop" style={{height: "40.7vh"}}>
             <div style={{paddingBottom: "1vh"}} className="rules-small">Here's an example:</div>
