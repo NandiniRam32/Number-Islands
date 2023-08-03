@@ -28,7 +28,7 @@ export const RulesPage = ({ handleChangePage, handleDarkMode }) => {
               textDecoration: "underline", fontWeight: "bold"}}>Rules</div>
               <div className="rules-small" style={{paddingTop: "2vh"}}>You are given a grid of numbers, and have to draw the amount of bridges from one number 
               to another corresponding to the number in the center. You can only finish a level when all of your bridges 
-              have been drawn properly. Remember to press the submit button!</div>
+              have been drawn properly.</div>
             <div className="rules-small" style={{textDecoration: "underline", paddingTop: "2vh"}}>Here's an example:</div>
             <img className="rules-example-image" src="https://github.com/NandiniRam32/Summer2023Projects/blob/master/Game4/src/components/RulesExample.png?raw=true"
             alt="Sorry, Not Found"/>
